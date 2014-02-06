@@ -1,2 +1,2 @@
-SpringJerseyHibernateMySQL
+SpringHibernateMySQL
 ==========================
